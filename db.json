@@ -6,7 +6,7 @@
         "level": "X1000-1",
         "medicalBenefits": "Employee Only",
         "startDate": "6/1/19",
-        "endDate": "6/1/79",
+        "endDate": "7/1/19",
         "hrsPerWeek": 0,
         "payRate": 100000,
         "per": "Yr"
@@ -17,7 +17,7 @@
         "level": "X1000-2",
         "medicalBenefits": "Employee Plus Spouse",
         "startDate": "6/1/19",
-        "endDate": "6/1/69",
+        "endDate": "7/1/19",
         "hrsPerWeek": 0,
         "payRate": 100000,
         "per": "Yr"
@@ -28,7 +28,7 @@
         "level": "X1000-3",
         "medicalBenefits": "Employee Plus Family",
         "startDate": "6/1/19",
-        "endDate": "6/1/59",
+        "endDate": "7/1/19",
         "hrsPerWeek": 0,
         "payRate": 100000,
         "per": "Yr"
@@ -39,7 +39,7 @@
         "level": "X1000-4",
         "medicalBenefits": "Employee Plus Child",
         "startDate": "6/1/19",
-        "endDate": "6/1/49",
+        "endDate": "7/1/19",
         "hrsPerWeek": 0,
         "payRate": 100000,
         "per": "Yr"
@@ -50,7 +50,7 @@
         "level": "X1000-5",
         "medicalBenefits": "Employee Only",
         "startDate": "9/1/19",
-        "endDate": "6/1/39",
+        "endDate": "7/1/19",
         "hrsPerWeek": 40,
         "payRate": 48,
         "per": "Hr"
@@ -61,7 +61,7 @@
         "level": "Y1000-1",
         "medicalBenefits": "Employee Plus Spouse",
         "startDate": "9/1/19",
-        "endDate": "6/1/29",
+        "endDate": "7/1/19",
         "hrsPerWeek": 0,
         "payRate": 100000,
         "per": "Yr"
@@ -72,7 +72,7 @@
         "level": "Y1000-2",
         "medicalBenefits": "Employee Plus Family",
         "startDate": "9/1/19",
-        "endDate": "",
+        "endDate": "7/1/19",
         "hrsPerWeek": 0,
         "payRate": 100000,
         "per": "Yr"
@@ -83,7 +83,7 @@
         "level": "Y1000-3",
         "medicalBenefits": "Employee Plus Child",
         "startDate": "9/1/19",
-        "endDate": "",
+        "endDate": "7/1/19",
         "hrsPerWeek": 40,
         "payRate": 48,
         "per": "Hr"
@@ -94,7 +94,7 @@
         "level": "Y1000-4",
         "medicalBenefits": "Employee Only",
         "startDate": "1/1/20",
-        "endDate": "",
+        "endDate": "7/1/19",
         "hrsPerWeek": 40,
         "payRate": 48,
         "per": "Hr"
@@ -105,7 +105,7 @@
         "level": "Y1000-5",
         "medicalBenefits": "Employee Plus Spouse",
         "startDate": "1/1/20",
-        "endDate": "",
+        "endDate": "7/1/19",
         "hrsPerWeek": 40,
         "payRate": 48,
         "per": "Hr"
@@ -116,7 +116,7 @@
         "level": "X1000-1",
         "medicalBenefits": "Employee Plus Family",
         "startDate": "1/1/20",
-        "endDate": "",
+        "endDate": "7/1/19",
         "hrsPerWeek": 0,
         "payRate": 100000,
         "per": "Yr"
